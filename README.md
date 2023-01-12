@@ -1,4 +1,4 @@
-# ML-Genomics-Project
+# Prediction-of-Secondary-structure-of-protein
 This project applies the concepts of Deep Learning for the scientific problem of predicting the secondary structure of the protein. Multiple approaches for completing this task are explored. These approaches consist of the folllowing methods:
 <ol>
   <li>LSTM [Our Approach]</li>
